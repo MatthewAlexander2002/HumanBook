@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-HumanBookApplication<human_book>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "au.humanbook.human_book.HumanBookApplication",
+            "projectName": "human_book",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
