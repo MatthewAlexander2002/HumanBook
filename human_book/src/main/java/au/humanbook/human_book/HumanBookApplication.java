@@ -8,7 +8,7 @@ public class HumanBookApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HumanBookApplication.class, args);
-		System.out.println("Hello World");
+		// System.out.println("Hello World");
 	}
 
 }
